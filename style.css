@@ -1,0 +1,7 @@
+.resim{
+width: 200px;    
+}
+body{background-color: rgb(67, 66, 66);}
+.su{
+    display: flex;
+}
